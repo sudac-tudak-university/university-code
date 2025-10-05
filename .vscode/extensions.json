@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "mhutchie.git-graph",
+        "alefragnani.project-manager"
+    ]
+}
