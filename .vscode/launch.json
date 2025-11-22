@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Lab1 Debug",
+            // "type": "dotnet",
+            "type": "coreclr",
+            "request": "launch",
+            // "projectPath": "${workspaceFolder}/ModernSoftwareDevelopment/Lab1/Lab1.csproj",
+            "program": "${workspaceFolder}/ModernSoftwareDevelopment/Lab1/bin/Debug/net9.0/Lab1.dll",
+            "console": "integratedTerminal"
+            
+        }
+
+    ]
+}

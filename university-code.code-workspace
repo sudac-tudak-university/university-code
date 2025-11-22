@@ -8,6 +8,10 @@
 		"files.autoSave": "afterDelay",
 		"files.autoSaveDelay": 1000,
 		"files.autoSaveWorkspaceFilesOnly": true,
-		"files.refactoring.autoSave": true 
+		"files.refactoring.autoSave": true,
+		// "omnisharp.dotnetPath": "/usr/local/share/dotnet/dotnet",
+		"dotnetAcquisitionExtension.existingDotnetPath": [
+        	"/usr/local/share/dotnet/dotnet"
+    	]
 	}
 }
