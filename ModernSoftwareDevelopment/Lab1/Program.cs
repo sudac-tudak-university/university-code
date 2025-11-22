@@ -137,7 +137,7 @@ class Programm
                     Console.WriteLine("1 - Добавить запись");
                     Console.WriteLine("2 - Удалить запись по номеру");
                     Console.WriteLine("3 - Показать все записи");
-                    Console.WriteLine("4 - Показать все записи по временному промежутку");
+                    Console.WriteLine("4 - Показать все записи по времени");
                     Console.WriteLine("5 - Показать доступные команды");
                     Console.WriteLine("0 - Выйти из программы");
                     break;
